@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Gintarra/create-posts-app/static/css/main.c82179dc.css",
-    "main.js": "/Gintarra/create-posts-app/static/js/main.7dc04d83.js",
-    "static/js/787.8c61618e.chunk.js": "/Gintarra/create-posts-app/static/js/787.8c61618e.chunk.js",
-    "index.html": "/Gintarra/create-posts-app/index.html",
-    "main.c82179dc.css.map": "/Gintarra/create-posts-app/static/css/main.c82179dc.css.map",
-    "main.7dc04d83.js.map": "/Gintarra/create-posts-app/static/js/main.7dc04d83.js.map",
-    "787.8c61618e.chunk.js.map": "/Gintarra/create-posts-app/static/js/787.8c61618e.chunk.js.map"
+    "main.css": "/create-posts-app/static/css/main.c82179dc.css",
+    "main.js": "/create-posts-app/static/js/main.dae1531d.js",
+    "static/js/787.8c61618e.chunk.js": "/create-posts-app/static/js/787.8c61618e.chunk.js",
+    "index.html": "/create-posts-app/index.html",
+    "main.c82179dc.css.map": "/create-posts-app/static/css/main.c82179dc.css.map",
+    "main.dae1531d.js.map": "/create-posts-app/static/js/main.dae1531d.js.map",
+    "787.8c61618e.chunk.js.map": "/create-posts-app/static/js/787.8c61618e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c82179dc.css",
-    "static/js/main.7dc04d83.js"
+    "static/js/main.dae1531d.js"
   ]
 }
