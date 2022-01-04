@@ -51,7 +51,7 @@ function App() {
 
                     <Route path="/" element={<HomePage/>}>
                     </Route>
-                    <Route path="/create-post" element={<CreatePostPage sendData={getData}/>}>
+                    <Route path="/create-post"  element={<CreatePostPage sendData={getData}/>}>
                     </Route>
                     <Route path="/all-posts" element={<AllPostsPage posts={getPost}/>}>
                     </Route>
