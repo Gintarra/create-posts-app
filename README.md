@@ -14,8 +14,11 @@ Task to create post, append all posts, edit every post
 // height - (numbers. max length 3, required)
 
 // width - (numbers, max length 3, required)
+
 // color - (should be string not longer than 20symbols, required)
+
 // border radius - (numbers, max 2, required)
+
 // id - (unique number which is generated automatically when post is created)
 
 
