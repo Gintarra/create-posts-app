@@ -39,6 +39,7 @@
 .allBox{
     background-color: #d6f3c3;
     padding: 100px 0 100px 0;
+    min-height: 100vh;
 }
 .updateBtn {
     padding: 5px;
