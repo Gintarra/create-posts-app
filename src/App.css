@@ -34,12 +34,13 @@
 .createBox {
     background-color: #d6f3c3;
     padding: 100px 0 100px 0;
+    min-height: calc(100vh - 272px);
 }
 
 .allBox{
     background-color: #d6f3c3;
     padding: 100px 0 100px 0;
-    min-height: 100vh;
+    min-height: calc(100vh - 272px);
 }
 .updateBtn {
     padding: 5px;
